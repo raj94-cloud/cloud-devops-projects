@@ -1,1 +1,1 @@
-# Static Website Hosting on AWS S3 + CloudFront
+s3-cloudfront-static-site/README.md
